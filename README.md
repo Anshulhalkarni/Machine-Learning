@@ -38,4 +38,9 @@ This repository contains a collection of beginner-friendly machine learning proj
 - Python 3.x
 - Jupyter Notebook
 - Libraries:
+  numpy
+ pandas
+ matplotlib
+ seaborn
+ scikit-learn
 
