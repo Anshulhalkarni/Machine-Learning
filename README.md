@@ -76,9 +76,9 @@ Datasets are either included or loaded from sklearn.datasets.
 Feel free to fork this repo, add your own beginner ML projects, and raise a pull request!
 
 📫 Contact
-GitHub: 
+GitHub:https://github.com/Anshulhalkarni 
 
-LinkedIn: 
+LinkedIn:https://www.linkedin.com/in/anshul-halkarni-016058335/ 
 
 
 
