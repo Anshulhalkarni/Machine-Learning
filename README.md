@@ -44,3 +44,41 @@ This repository contains a collection of beginner-friendly machine learning proj
  seaborn
  scikit-learn
 
+Install with:
+```bash
+pip install -r requirements.txt
+🚀 How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/ml-projects.git
+cd ml-projects
+Open any project folder:
+
+bash
+Copy
+Edit
+cd iris-classification
+Launch the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook
+📌 Note
+Each folder contains a .ipynb file with explanations and output.
+
+Datasets are either included or loaded from sklearn.datasets.
+
+🙌 Contributions
+Feel free to fork this repo, add your own beginner ML projects, and raise a pull request!
+
+📫 Contact
+GitHub: 
+
+LinkedIn: 
+
+
+
